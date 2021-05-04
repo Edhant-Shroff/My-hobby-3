@@ -1,0 +1,100 @@
+.book {
+    width: 100px;
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.line {
+    width: 100px;
+    height: 7px;
+    background-color: black;
+    margin: auto;
+}
+
+.topsection {
+    width: 100%;
+    height: 700px;
+    background: linear-gradient(#22c1c3 0%, #fdbb2d 100%);
+    display: table;
+}
+
+.innersection {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#menu {
+    list-style: none;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    z-index: 10;
+    text-align: left;
+    margin-left: 80px auto;
+    padding-left: 65%;
+    background-color: #22c1c3;
+    margin-top: 0;
+}
+
+#link {
+    float: left;
+    padding: 10px;
+    background-color: #22c1c3;
+}
+
+#anker {
+    text-decoration: none;
+}
+
+#link:hover {
+    background-color: skyblue;
+}
+
+img {
+    width: 160px;
+}
+
+#Myfavouritebook {
+    background-color: #fdbb2d;
+}
+
+
+#Mywork {
+    background-color: cadetblue;
+}
+
+#bodysection {
+    background-color: #22c1c3;
+}
+
+#Inspartion {
+    background-color: chocolate;
+}
+
+
+p,
+h3,
+h4 {
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.akshay {
+    width: 500px;
+    height: 500px;
+}
+
+.tiger {
+    width: 500px;
+    height: 500px;
+}
+
+#contact {
+    background-color: coral;
+}
